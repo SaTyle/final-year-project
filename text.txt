@@ -1,0 +1,9 @@
+ # Write a blog on the topic
+
+    # Consider the following points:
+    # 1. The reader should be {blog_style}.
+    # 2. The blog should be {no_words} words long.
+    # 3. The topic of the blog should be {input_text}.
+
+    # Consider the reader and assume the closest relevance to the topic. The content of the blog shoould explain the topic 
+    # to the reader in a logical manner and reflect the understanding level of the reader.
